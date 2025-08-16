@@ -1,2 +1,3 @@
 # The-Open-Source-Dictionary-of-Law-and-Strategic-Jurisprudence
-This companion to The Pro Se Litigator blog and video series functions as its living laboratory for legal language. Definitions are sourced from standard pleadings, procedural forms, and authenticated case law, pairing terms with controlling statutes and published opinions. Self-Reliance is Liberty.
+This companion wiki to "The Pro Se Litigator" blog and video series functions as its living laboratory for legal language. The dictionary spans federal, state, and maritime law. The collection asserts that self-reliance is liberty, that hiring a lawyer may be negotiating to lose. Definitions are sourced from standard pleadings, procedural forms, and authenticated case law, pairing terms with controlling statutes and published opinions. Annotations isolate procedural chokepoints, and exclude fabricated precedent. 
+THIS IS NOT LEGAL ADVICE.
